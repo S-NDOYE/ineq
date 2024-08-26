@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 millify
-streamlit-extras
+streamlit_extras
